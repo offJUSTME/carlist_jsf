@@ -1,0 +1,5 @@
+com\duba\entity\CarDTO.class
+com\duba\repository\CarRepo.class
+com\duba\SpringJsfApplication.class
+com\duba\service\CarService.class
+com\duba\mbean\CarController.class
